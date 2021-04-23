@@ -7,7 +7,7 @@ We seek to create a trip analysis that will help key stakeholders decide on the 
 
 The proposal is powered by Tableau to answer questions using data.
 
-Following are questions we provide vizual answers to:
+Following are questions we provide visual answers to:
 *  How long bikes are checked out for all riders and genders.
 *  How many trips are taken by the hour for each day of the week, for all riders and genders.
 *  A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
